@@ -75,6 +75,31 @@
   </screenshots>
 
   <releases>
+    <release version="1.2.0" date="2024-11-28">
+      <url type="details">https://nestful.app/changelog</url>
+      <description>
+        <ul>
+          <li>Improve performance for items with many children</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.0" date="2024-10-29">
+      <url type="details">https://nestful.app/changelog</url>
+      <description>
+        <ul>
+          <li>Allow changing sidebar's side</li>
+          <li>Bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.1" date="2024-10-19">
+      <url type="details">https://nestful.app/changelog</url>
+      <description>
+        <ul>
+          <li>Minor bug fixes</li>
+        </ul>
+      </description>
+    </release>
     <release version="1.0.0" date="2024-09-29">
       <url type="details">https://nestful.app/changelog</url>
       <description>
