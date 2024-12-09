@@ -75,6 +75,14 @@
   </screenshots>
 
   <releases>
+    <release version="1.2.1" date="2024-12-09">
+      <url type="details">https://nestful.app/changelog</url>
+      <description>
+        <ul>
+          <li>Added activation reminder. Please pay for Nestful if you are able to! </li>
+        </ul>
+      </description>
+    </release>
     <release version="1.2.0" date="2024-11-28">
       <url type="details">https://nestful.app/changelog</url>
       <description>
