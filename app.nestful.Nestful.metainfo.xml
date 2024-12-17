@@ -80,6 +80,7 @@
       <description>
         <ul>
           <li>Nestful will now let you undo/redo actions in the current item</li>
+          <li>Fix login issues experienced by some users</li>
           <li>Performance improvements</li>
         </ul>
       </description>
