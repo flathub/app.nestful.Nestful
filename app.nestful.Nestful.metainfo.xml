@@ -75,12 +75,28 @@
   </screenshots>
 
   <releases>
+    <release version="1.4.0" date="2025-01-14">
+      <url type="details">https://nestful.app/changelog</url>
+      <description>
+        <ul>
+          <li>Automatically use the system locale for dates and times</li>
+          <li>Allow manual override of the locale</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.3.2" date="2024-12-18">
+      <url type="details">https://nestful.app/changelog</url>
+      <description>
+        <ul>
+          <li>Fix login issues experienced by some users</li>
+        </ul>
+      </description>
+    </release>
     <release version="1.3.0" date="2024-12-16">
       <url type="details">https://nestful.app/changelog</url>
       <description>
         <ul>
           <li>Nestful will now let you undo/redo actions in the current item</li>
-          <li>Fix login issues experienced by some users</li>
           <li>Performance improvements</li>
         </ul>
       </description>
