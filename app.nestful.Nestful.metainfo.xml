@@ -75,6 +75,14 @@
   </screenshots>
 
   <releases>
+    <release version="1.4.1" date="2025-01-14">
+      <url type="details">https://nestful.app/changelog</url>
+      <description>
+        <ul>
+          <li>Bug fixes</li>
+        </ul>
+      </description>
+    </release>
     <release version="1.4.0" date="2025-01-14">
       <url type="details">https://nestful.app/changelog</url>
       <description>

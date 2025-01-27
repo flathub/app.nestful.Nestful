@@ -29,9 +29,9 @@ modules:
         path: app.nestful.Nestful.metainfo.xml
       - type: extra-data
         filename: Nestful.deb
-        size: 11120118
+        size: 11117354
         url: https://cdn.crabnebula.app/download/nestful/nestful/latest/platform/debian-x86_64
-        sha256: 6cafd50413edce72e5a976d1f035f7b243cf00ec820f1a692947a7cffdee6a69
+        sha256: 2fba5bb6861833b4aa711e4dea53aa1fc9b97873366c07bd77c820649716ec86
       - type: script
         dest-filename: apply_extra
         commands:
