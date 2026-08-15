@@ -37,8 +37,8 @@ modules:
         commands:
           - ar -x Nestful.deb
           - tar -xf data.tar.gz usr
-          - rm -f data.tar.gz
           - mv usr/bin .
+          - rm -rf Nestful.deb debian-binary control.tar.gz data.tar.gz usr
     build-commands:
       - mkdir -p ${FLATPAK_DEST}/bin ${FLATPAK_DEST}/lib
       - install -Dm755 apply_extra ${FLATPAK_DEST}/bin
