@@ -75,6 +75,25 @@
   </screenshots>
 
   <releases>
+    <release version="1.6.0" date="2026-08-15">
+      <url type="details">https://nestful.app/changelog</url>
+      <description>
+        <p>The biggest Nestful release yet — new search, multi-select, automation, and a full internal rewrite.</p>
+        <ul>
+          <li>Search your entire nestful from the bar, filter results, and run quick actions without leaving the keyboard</li>
+          <li>Select multiple items at once and trash or move them together</li>
+          <li>A label can now be set to automatically apply to an item's children</li>
+          <li>Completed items can automatically sink to the bottom of their list -- set in &quot;Your Nestful&quot;</li>
+          <li>Adding an item now uses a hovering form instead of an inline one, with presentable default titles</li>
+          <li>The item header now has a checkbox, so you can complete an item while viewing it</li>
+          <li>Improved performance of large nestfuls</li>
+          <li>Real-time sync picks up remote changes more reliably</li>
+          <li>Assorted UI polish and layout touch-ups</li>
+          <li>Many bug fixes across drag &amp; drop, agenda, dates &amp; times, breadcrumbs, trash, and login</li>
+          <li>For software nerds: the entire app is now written in Gleam with the Lustre framework</li>
+        </ul>
+      </description>
+    </release>
     <release version="1.4.1" date="2025-01-14">
       <url type="details">https://nestful.app/changelog</url>
       <description>
